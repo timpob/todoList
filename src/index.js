@@ -11,6 +11,7 @@ root.render(
     <Provider store={store}>
         <App/>
         <p>HELLO WORLD</p>
+        <p>HELLO WORLD ONE MORE TIME</p>
 
     </Provider>
 );
