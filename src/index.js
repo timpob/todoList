@@ -14,6 +14,7 @@ root.render(
         <p>HELLO WORLD ONE MORE TIME</p>
         <p>HELLO WORLD ONE MORE TIME 2000</p>
          <p>HELLO WORLD ONE MORE TIME 4000</p>
+        <p>HELLO WORLD ONE MORE TIME 6000</p>
     </Provider>
 );
 
